@@ -82,8 +82,9 @@ You can use the font symbol in your HTML as follows:
 ```
 ## Usage in any Text Editor Like MS Office
 
-You can use the font symbol in your editor by type:
+You can use the font symbol in your editor by select font name ( <span style="color: #2DAA9E;"> saudi-riyal-symbol </span> ) and type:
 ```html
+
 #
 ```
 ## Compatibility
