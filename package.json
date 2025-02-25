@@ -1,6 +1,6 @@
 {
   "name": "saudi-riyal-symbol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This library contains a custom icon font that provides a Saudi Riyal (SAR) symbol for use in web applications. The font is designed for seamless integration and supports multiple formats for cross-browser compatibility.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -22,7 +22,7 @@ You can quickly include the font using the CDN link:
 
 #### Download the Font Files
 
-Ensure you have the following font files in your `fonts/` directory:
+Ensure you have the following font files in your `dist/fonts/` directory:
 
 - `saudi-riyal-symbol.eot`
 - `saudi-riyal-symbol.woff`
