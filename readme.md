@@ -22,12 +22,14 @@ You can quickly include the font using the CDN link:
 
 #### Download the Font Files
 
-Ensure you have the following font files in your `dist/fonts/` directory:
+Ensure you have the following font files in  `dist/fonts/` directory:
 
 - `saudi-riyal-symbol.eot`
 - `saudi-riyal-symbol.woff`
 - `saudi-riyal-symbol.ttf`
 - `saudi-riyal-symbol.svg`
+
+You Can Download it from here: [Download](https://github.com/mczainalabdeen/saudi-riyal-symbol/releases/latest)
 
 #### Include the CSS
 
